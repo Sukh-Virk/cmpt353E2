@@ -1,6 +1,5 @@
-# cmpt353E2
+# Data visualizatio
 
-CMPT 353- Data Science Assigment Two
 
 In this exercise, I am working on developing my skills in data analysis, visualization, and handling real-world datasets using Python. The task involves analyzing Wikipedia page view data and Twitter dog rating data to uncover patterns and insights. I'm learning how to handle command-line arguments with the sys module so that my scripts can dynamically take input files. Using Pandas, I will work on manipulating data, including reading structured data into DataFrames, sorting, filtering, aligning data based on indices, and merging datasets.
 
